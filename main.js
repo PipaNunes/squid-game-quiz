@@ -1,7 +1,7 @@
 
 //add sound to the first button 
 const audio = new Audio();
-audio.scr = "file:///D:/westworld/landing%20page/sound/Menu%20Game%20Button%20Click%20Sound%20Effect.mp3"
+audio.scr = "./sound/menu_game.mp3"
 
 //funcionar botão next e pergunta anterior desaparecer 
 document.getElementsByClassName('container')[0].style.display = "block";
