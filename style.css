@@ -1,0 +1,104 @@
+body {
+    margin: 0px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    line-height: 24px;
+}
+header {
+    text-align: center;
+    padding: 120px 10px;
+    background-image: url(./images/thesquidgamess.webp);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.figure {
+  float: right;
+  height: 200px;
+  width: 400px;
+  padding: 20px;
+  border: 3px solid #000;
+    background-color: #8b0000;
+    font-size: 20px;
+    border-radius: 40px;
+    line-height: 30pt; 
+    position: absolute; 
+    top: 550px; 
+    right: 300px;
+}
+
+
+.container {
+    border: 3px solid #000;
+    background-color: #8b0000;
+    color: #f3eeeb;
+    line-height: 30pt; 
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    border-radius: 10 px;
+    width: 60%;
+    padding: 5px;
+    display: none;
+}
+
+.button {
+    margin-top: 10px;
+}
+   
+
+div { 
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 10px;
+} 
+div { 
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 10px;
+}
+footer { 
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}   
+a {
+    color: #f3eeeb
+}
+.botao {
+    background-color: #8b0000;
+    color: #ffefe8;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.botao:hover {
+    color: #cd5c5c;
+} 
+
+h1 {
+    font-family: Lobster, Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: #f3eeeb;
+    text-shadow: 2px 2px 4px #8b0000;
+}
+
+p { 
+    font-family: roboto, Arial;
+    color: black;
+}
+
+p {
+    font-family: roboto, Arial;
+    color: #f3eeeb  
+}
+
+
+
+
+
+
+
+
+

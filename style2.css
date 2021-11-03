@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+header {
+    height: 100%;
+    text-align: center;
+    background-image: url(./images/squid-game-netflix.gif);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+footer { 
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}   
+h1 {
+    font-family: Lobster, Arial, Helvetica, sans-serif;
+    padding-top: 145px;
+    font-size: 48px;
+    color: #f3eeeb;
+    text-shadow: 2px 2px 4px #8b0000;
+}
+p {
+    font-family: roboto, Arial;
+    color: #f3eeeb  
+}
+.botao {
+    background-color: #8b0000;
+    color: #ffefe8;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 24px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.botao:hover {
+    color: #cd5c5c;
+} 
